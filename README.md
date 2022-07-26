@@ -1,2 +1,2 @@
 # mindPicture
-a reposity for saving mind pictures
+a repository for saving mind pictures
